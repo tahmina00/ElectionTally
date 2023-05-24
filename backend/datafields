@@ -1,0 +1,122 @@
+CandidateBangla  =  electionid, constitutionid, candidateid, candidatenamebangla, partysymbol, date
+CandidateEnglish = electionid, constitutionid, candidateid, candidatenameenglish, partysymbol, date
+
+
+Electionname  =  electionid,  banglaelectionname, englishelectionname
+
+ConstitutionBangla = electionid, constitutionid, banglaconstitutionname, totalcenter, obtainedcenter, sortingorder, date
+ConstitutionEnglish = electionid, constitutionid, englishconstitutionname, totalcenter, obtainedcenter, sortingorder, date
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+_id
+643158c50705dad7fd6610b5
+electionid
+"5"
+banglaelectionname
+"গাজীপুর সিটি নির্বাচন ২০১৮"
+englishelectionname
+"GAZIPUR CITY POLLS 2018"
+statusfordisplay
+"1"
+__v
+0
+_id
+643a748de0f416bca789376f
+electionid
+"7"
+banglaelectionname
+"তিন সিটির ভোট ২০১৮: মেয়র পদের ফল"
+englishelectionname
+"City Polls 2018: Mayoral Election Results"
+__v
+0
+_id
+643a78c3e0f416bca78937af
+electionid
+"8"
+banglaelectionname
+"একাদশ সংসদ নির্বাচন"
+englishelectionname
+"ELEVENTH PARLIAMENTARY ELECTION"
+__v
+0
+_id
+643a79d9d378b0bc5678d5bf
+electionid
+"9"
+banglaelectionname
+"ঢাকা সিটি করপোরেশন নির্বাচন ২০২০"
+englishelectionname
+"City Polls 2020"
+statusfordisplay
+1
+createdAt
+2023-04-15T10:18:01.882+00:00
+__v
+0
+_id
+644be9e6504a4ce26fd17bc5
+electionid
+"10"
+banglaelectionname
+"পাঁচটি সিটি  কর্পোরেশন নির্বাচন ২০২৩"
+englishelectionname
+"Five City Corporation Election 2023"
+statusfordisplay
+1
+createdAt
+2023-04-28T15:44:38.949+00:00
+__v
+0
+_id
+644beb61504a4ce26fd17bd8
+electionid
+"11"
+banglaelectionname
+"দুই সিটি  কর্পোরেশন নির্বাচন ২০২৩"
+englishelectionname
+"Two City Corporation Election 2023"
+statusfordisplay
+1
+createdAt
+2023-04-28T15:50:57.574+00:00
+__v
+0
+_id
+644bec3a504a4ce26fd17bde
+electionid
+"12"
+banglaelectionname
+"চার সিটি  কর্পোরেশন নির্বাচন ২০২৩"
+englishelectionname
+"Four City Corporation Election 2023"
+statusfordisplay
+1
+createdAt
+2023-04-28T15:54:34.429+00:00
+__v
+0
+
+
+
+
+
+_id
+644bee3b504a4ce26fd17be5
+electionid
+"13"
+banglaelectionname
+"সাত সিটি  কর্পোরেশন নির্বাচন ২০২৩ "
+englishelectionname
+"Seven City Corporation Election 2023"
+statusfordisplay
+1
+createdAt
+2023-04-28T16:03:07.621+00:00
+__v
+0
